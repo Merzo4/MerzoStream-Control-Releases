@@ -1,0 +1,12 @@
+{
+  "product": "MerzoStream Control",
+  "version": "0.5.1-alpha",
+  "verified": true,
+  "verification": "anonymous-public-release+manifest+sha256+sums+archive+fileversion+app-smoke",
+  "sourceCommit": "eea9378a28433b2bdcf50a31d34de67294c1a10a",
+  "buildWorkflowRunId": "32506784344",
+  "releaseId": 374556429,
+  "packageSha256": "3fdcab837b52f50fc1a18722552bd2473aa87805c103ee4728fa35a3df904542",
+  "fileVersion": "0.5.1.0",
+  "verifiedUtc": "2026-08-21T17:13:54.7107366+00:00"
+}
