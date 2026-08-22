@@ -3,10 +3,10 @@
   "version": "0.6.0-alpha",
   "verified": true,
   "verification": "anonymous-public-release+manifest+sha256+sums+archive+fileversion+app-smoke",
-  "sourceCommit": "ed39022b2975d613fef8f2405f81a612406c101b",
+  "sourceCommit": "08278f25f4096c5ac68d6cc65404de901a228bb0",
   "buildWorkflowRunId": "push",
-  "releaseId": 374875263,
-  "packageSha256": "e2a13d93cf84fdc40fd4fef61aa1f98ea92554b1b273985180ee91d3fb66d7f5",
+  "releaseId": 374876420,
+  "packageSha256": "a38af211bfdbe5deb88879e5f492cccff6aec75b05300cf30199f317992cc525",
   "fileVersion": "0.6.0.0",
-  "verifiedUtc": "2026-08-22T08:33:04.1040315+00:00"
+  "verifiedUtc": "2026-08-22T08:38:54.2201869+00:00"
 }
