@@ -1,0 +1,11 @@
+{
+    "product":  "MerzoStream Control",
+    "version":  "1.0.0-beta.6",
+    "verified":  true,
+    "verification":  "anonymous-public-release+RSA-PSS-manifest+sha256+archive+fileversion+app-smoke",
+    "sourceCommit":  "a6c19f6f963b41e054eeba7bc1b1174d97ad0958",
+    "releaseId":  402310603,
+    "packageSha256":  "c4a5ae853374eea7739a3b01ae4b89991451f8b6c2c957fa809021a4c2db5bc2",
+    "fileVersion":  "1.0.0.6",
+    "verifiedUtc":  "2026-10-03T03:47:30.7948720+00:00"
+}
